@@ -73,29 +73,6 @@ Bar visualization of yearly max/min stock impact.
 
 ---
 
-## 📊 Visual Outputs
-
-![R&D spending by each companies](https://github.com/chandanm0005/AI-financial-data-Analysis/blob/main/R&D%20sepnding.png?raw=true)
-
----
-
-![Revenue Earned by each companies](https://github.com/chandanm0005/AI-financial-data-Analysis/blob/main/Revenue%20earned.png?raw=true)
-
----
-
-![Spending and earning](https://github.com/chandanm0005/AI-financial-data-Analysis/blob/main/spending%20and%20earning.png?raw=true)
-
----
-
-![Ai revenue growth](https://github.com/chandanm0005/AI-financial-data-Analysis/blob/main/Ai%20revenue%20growth.png?raw=true)
-
----
-
-![stock Impact in percentage](https://github.com/chandanm0005/AI-financial-data-Analysis/blob/main/stock_impact.png?raw=true)
-
-
----
-
 ## 🛠️ Technologies Used
 - **Python**
 - **Pandas**
